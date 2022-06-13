@@ -1,3 +1,7 @@
+body {
+ background-color:red; 
+}
+
 .skin #Buttons {
 max-width: 770px;
 text-align: center;
