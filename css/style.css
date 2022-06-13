@@ -2,6 +2,10 @@ body {
  background-color:red; 
 }
 
+.Skin #Buttons #NextButton{
+ color:red: !important
+}
+
 .skin #Buttons {
 max-width: 770px;
 text-align: center;
