@@ -11,3 +11,7 @@ max-width: 770px;
 text-align: center;
 padding: 40px 30px;
 }
+
+input #NextButton {
+ color:red !important;
+}
